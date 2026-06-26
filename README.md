@@ -1,7 +1,5 @@
-# verilog-vending-machine
-A Verilog implementation of a finite state machine (FSM) based vending machine.
-
 # Verilog Vending Machine
+A Verilog implementation of a finite state machine (FSM) based vending machine.
 
 This was one of the first projects I built while learning Verilog and finite state machines (FSMs). I wanted to understand how digital logic can be used to model something we see in everyday life, like a vending machine.
 
